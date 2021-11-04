@@ -16,7 +16,7 @@ class Barang {
 		System.out.println("Nama : "+ this.nama);
 		System.out.println("Harga : "+ this.harga);
 	}
-}
+} 
 
 
 public class Java {
